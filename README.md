@@ -1,4 +1,3 @@
-[![MasterHead](https://images.unsplash.com/photo-1605379399843-5870eea9b74e?q=80&w=2998&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm AJDM Jakiur Rahman</h1>
 <h3 align="center">A dedicated Full Stack Developer and avid Competitive Programmer from Bangladesh</h3>
 
